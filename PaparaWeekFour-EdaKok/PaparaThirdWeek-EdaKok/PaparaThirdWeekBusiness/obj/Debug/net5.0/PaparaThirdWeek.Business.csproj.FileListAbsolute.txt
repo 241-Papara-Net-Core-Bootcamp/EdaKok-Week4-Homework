@@ -1,0 +1,15 @@
+C:\Users\Berk\source\repos\PaparaThirdWeek-EdaKok\PaparaThirdWeekBusiness\bin\Debug\net5.0\PaparaThirdWeek.Business.deps.json
+C:\Users\Berk\source\repos\PaparaThirdWeek-EdaKok\PaparaThirdWeekBusiness\bin\Debug\net5.0\PaparaThirdWeek.Business.dll
+C:\Users\Berk\source\repos\PaparaThirdWeek-EdaKok\PaparaThirdWeekBusiness\bin\Debug\net5.0\ref\PaparaThirdWeek.Business.dll
+C:\Users\Berk\source\repos\PaparaThirdWeek-EdaKok\PaparaThirdWeekBusiness\bin\Debug\net5.0\PaparaThirdWeek.Business.pdb
+C:\Users\Berk\source\repos\PaparaThirdWeek-EdaKok\PaparaThirdWeekBusiness\obj\Debug\net5.0\PaparaThirdWeek.Business.csproj.AssemblyReference.cache
+C:\Users\Berk\source\repos\PaparaThirdWeek-EdaKok\PaparaThirdWeekBusiness\obj\Debug\net5.0\PaparaThirdWeek.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Berk\source\repos\PaparaThirdWeek-EdaKok\PaparaThirdWeekBusiness\obj\Debug\net5.0\PaparaThirdWeek.Business.AssemblyInfoInputs.cache
+C:\Users\Berk\source\repos\PaparaThirdWeek-EdaKok\PaparaThirdWeekBusiness\obj\Debug\net5.0\PaparaThirdWeek.Business.AssemblyInfo.cs
+C:\Users\Berk\source\repos\PaparaThirdWeek-EdaKok\PaparaThirdWeekBusiness\obj\Debug\net5.0\PaparaThirdWeek.Business.csproj.CoreCompileInputs.cache
+C:\Users\Berk\source\repos\PaparaThirdWeek-EdaKok\PaparaThirdWeekBusiness\obj\Debug\net5.0\PaparaThirdWeek.Business.dll
+C:\Users\Berk\source\repos\PaparaThirdWeek-EdaKok\PaparaThirdWeekBusiness\obj\Debug\net5.0\ref\PaparaThirdWeek.Business.dll
+C:\Users\Berk\source\repos\PaparaThirdWeek-EdaKok\PaparaThirdWeekBusiness\obj\Debug\net5.0\PaparaThirdWeek.Business.pdb
+C:\Users\Berk\source\repos\PaparaThirdWeek-EdaKok\PaparaThirdWeekBusiness\bin\Debug\net5.0\PaparaThirdWeek.Business.runtimeconfig.json
+C:\Users\Berk\source\repos\PaparaThirdWeek-EdaKok\PaparaThirdWeekBusiness\bin\Debug\net5.0\PaparaThirdWeek.Business.runtimeconfig.dev.json
+C:\Users\Berk\source\repos\PaparaThirdWeek-EdaKok\PaparaThirdWeekBusiness\obj\Debug\net5.0\PaparaThirdWeek.Business.genruntimeconfig.cache

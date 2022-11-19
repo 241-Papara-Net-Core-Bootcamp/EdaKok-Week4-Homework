@@ -1,0 +1,40 @@
+C:\Users\Berk\source\repos\PaparaThirdWeek-EdaKok\PaparaThirdWeek.Services\bin\Debug\net5.0\PaparaThirdWeek.Services.deps.json
+C:\Users\Berk\source\repos\PaparaThirdWeek-EdaKok\PaparaThirdWeek.Services\bin\Debug\net5.0\PaparaThirdWeek.Services.dll
+C:\Users\Berk\source\repos\PaparaThirdWeek-EdaKok\PaparaThirdWeek.Services\bin\Debug\net5.0\ref\PaparaThirdWeek.Services.dll
+C:\Users\Berk\source\repos\PaparaThirdWeek-EdaKok\PaparaThirdWeek.Services\bin\Debug\net5.0\PaparaThirdWeek.Services.pdb
+C:\Users\Berk\source\repos\PaparaThirdWeek-EdaKok\PaparaThirdWeek.Services\obj\Debug\net5.0\PaparaThirdWeek.Services.csproj.AssemblyReference.cache
+C:\Users\Berk\source\repos\PaparaThirdWeek-EdaKok\PaparaThirdWeek.Services\obj\Debug\net5.0\PaparaThirdWeek.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Berk\source\repos\PaparaThirdWeek-EdaKok\PaparaThirdWeek.Services\obj\Debug\net5.0\PaparaThirdWeek.Services.AssemblyInfoInputs.cache
+C:\Users\Berk\source\repos\PaparaThirdWeek-EdaKok\PaparaThirdWeek.Services\obj\Debug\net5.0\PaparaThirdWeek.Services.AssemblyInfo.cs
+C:\Users\Berk\source\repos\PaparaThirdWeek-EdaKok\PaparaThirdWeek.Services\obj\Debug\net5.0\PaparaThirdWeek.Services.csproj.CoreCompileInputs.cache
+C:\Users\Berk\source\repos\PaparaThirdWeek-EdaKok\PaparaThirdWeek.Services\obj\Debug\net5.0\PaparaThirdWeek.Services.dll
+C:\Users\Berk\source\repos\PaparaThirdWeek-EdaKok\PaparaThirdWeek.Services\obj\Debug\net5.0\ref\PaparaThirdWeek.Services.dll
+C:\Users\Berk\source\repos\PaparaThirdWeek-EdaKok\PaparaThirdWeek.Services\obj\Debug\net5.0\PaparaThirdWeek.Services.pdb
+C:\Users\Berk\source\repos\PaparaThirdWeek-EdaKok\PaparaThirdWeek.Services\bin\Debug\net5.0\PaparaThirdWeek.Services.runtimeconfig.json
+C:\Users\Berk\source\repos\PaparaThirdWeek-EdaKok\PaparaThirdWeek.Services\bin\Debug\net5.0\PaparaThirdWeek.Services.runtimeconfig.dev.json
+C:\Users\Berk\source\repos\PaparaThirdWeek-EdaKok\PaparaThirdWeek.Services\obj\Debug\net5.0\PaparaThirdWeek.Services.genruntimeconfig.cache
+C:\Users\Berk\source\repos\PaparaThirdWeek-EdaKok\PaparaThirdWeek.Services\bin\Debug\net5.0\PaparaThirdWeek.Data.dll
+C:\Users\Berk\source\repos\PaparaThirdWeek-EdaKok\PaparaThirdWeek.Services\bin\Debug\net5.0\PaparaThirdWeek.Domain.dll
+C:\Users\Berk\source\repos\PaparaThirdWeek-EdaKok\PaparaThirdWeek.Services\bin\Debug\net5.0\PaparaThirdWeek.Data.pdb
+C:\Users\Berk\source\repos\PaparaThirdWeek-EdaKok\PaparaThirdWeek.Services\bin\Debug\net5.0\PaparaThirdWeek.Domain.pdb
+C:\Users\Berk\source\repos\PaparaThirdWeek-EdaKok\PaparaThirdWeek.Services\obj\Debug\net5.0\PaparaThirdWeek.Services.csproj.CopyComplete
+C:\Users\Berk\Desktop\COMPUTER ENG\EdaKok-Week3-Homework\PaparaThirdWeek-EdaKok\PaparaThirdWeek.Services\bin\Debug\net5.0\PaparaThirdWeek.Services.deps.json
+C:\Users\Berk\Desktop\COMPUTER ENG\EdaKok-Week3-Homework\PaparaThirdWeek-EdaKok\PaparaThirdWeek.Services\bin\Debug\net5.0\PaparaThirdWeek.Services.runtimeconfig.json
+C:\Users\Berk\Desktop\COMPUTER ENG\EdaKok-Week3-Homework\PaparaThirdWeek-EdaKok\PaparaThirdWeek.Services\bin\Debug\net5.0\PaparaThirdWeek.Services.runtimeconfig.dev.json
+C:\Users\Berk\Desktop\COMPUTER ENG\EdaKok-Week3-Homework\PaparaThirdWeek-EdaKok\PaparaThirdWeek.Services\bin\Debug\net5.0\PaparaThirdWeek.Services.dll
+C:\Users\Berk\Desktop\COMPUTER ENG\EdaKok-Week3-Homework\PaparaThirdWeek-EdaKok\PaparaThirdWeek.Services\bin\Debug\net5.0\ref\PaparaThirdWeek.Services.dll
+C:\Users\Berk\Desktop\COMPUTER ENG\EdaKok-Week3-Homework\PaparaThirdWeek-EdaKok\PaparaThirdWeek.Services\bin\Debug\net5.0\PaparaThirdWeek.Services.pdb
+C:\Users\Berk\Desktop\COMPUTER ENG\EdaKok-Week3-Homework\PaparaThirdWeek-EdaKok\PaparaThirdWeek.Services\bin\Debug\net5.0\PaparaThirdWeek.Data.dll
+C:\Users\Berk\Desktop\COMPUTER ENG\EdaKok-Week3-Homework\PaparaThirdWeek-EdaKok\PaparaThirdWeek.Services\bin\Debug\net5.0\PaparaThirdWeek.Domain.dll
+C:\Users\Berk\Desktop\COMPUTER ENG\EdaKok-Week3-Homework\PaparaThirdWeek-EdaKok\PaparaThirdWeek.Services\bin\Debug\net5.0\PaparaThirdWeek.Data.pdb
+C:\Users\Berk\Desktop\COMPUTER ENG\EdaKok-Week3-Homework\PaparaThirdWeek-EdaKok\PaparaThirdWeek.Services\bin\Debug\net5.0\PaparaThirdWeek.Domain.pdb
+C:\Users\Berk\Desktop\COMPUTER ENG\EdaKok-Week3-Homework\PaparaThirdWeek-EdaKok\PaparaThirdWeek.Services\obj\Debug\net5.0\PaparaThirdWeek.Services.csproj.AssemblyReference.cache
+C:\Users\Berk\Desktop\COMPUTER ENG\EdaKok-Week3-Homework\PaparaThirdWeek-EdaKok\PaparaThirdWeek.Services\obj\Debug\net5.0\PaparaThirdWeek.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Berk\Desktop\COMPUTER ENG\EdaKok-Week3-Homework\PaparaThirdWeek-EdaKok\PaparaThirdWeek.Services\obj\Debug\net5.0\PaparaThirdWeek.Services.AssemblyInfoInputs.cache
+C:\Users\Berk\Desktop\COMPUTER ENG\EdaKok-Week3-Homework\PaparaThirdWeek-EdaKok\PaparaThirdWeek.Services\obj\Debug\net5.0\PaparaThirdWeek.Services.AssemblyInfo.cs
+C:\Users\Berk\Desktop\COMPUTER ENG\EdaKok-Week3-Homework\PaparaThirdWeek-EdaKok\PaparaThirdWeek.Services\obj\Debug\net5.0\PaparaThirdWeek.Services.csproj.CoreCompileInputs.cache
+C:\Users\Berk\Desktop\COMPUTER ENG\EdaKok-Week3-Homework\PaparaThirdWeek-EdaKok\PaparaThirdWeek.Services\obj\Debug\net5.0\PaparaThirdWeek.Services.csproj.CopyComplete
+C:\Users\Berk\Desktop\COMPUTER ENG\EdaKok-Week3-Homework\PaparaThirdWeek-EdaKok\PaparaThirdWeek.Services\obj\Debug\net5.0\PaparaThirdWeek.Services.dll
+C:\Users\Berk\Desktop\COMPUTER ENG\EdaKok-Week3-Homework\PaparaThirdWeek-EdaKok\PaparaThirdWeek.Services\obj\Debug\net5.0\ref\PaparaThirdWeek.Services.dll
+C:\Users\Berk\Desktop\COMPUTER ENG\EdaKok-Week3-Homework\PaparaThirdWeek-EdaKok\PaparaThirdWeek.Services\obj\Debug\net5.0\PaparaThirdWeek.Services.pdb
+C:\Users\Berk\Desktop\COMPUTER ENG\EdaKok-Week3-Homework\PaparaThirdWeek-EdaKok\PaparaThirdWeek.Services\obj\Debug\net5.0\PaparaThirdWeek.Services.genruntimeconfig.cache
